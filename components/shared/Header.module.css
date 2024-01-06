@@ -1,0 +1,23 @@
+/* Header.module.css */
+
+.header {
+    backdrop-filter: blur(4px);
+    background: rgba(255, 255, 255, 0.5);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* Adjust the rest of your styles as needed */
+}
+
+.wrapper {
+    /* Your existing styles */
+    padding: 1rem;
+    /* Example padding */
+}
+
+/* Other styles */
+.dark {
+    background-color: #333;
+    /* Dark mode background color */
+    color: #fff;
+    /* Dark mode text color */
+}
